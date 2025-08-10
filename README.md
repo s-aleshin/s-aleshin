@@ -31,7 +31,7 @@ and learns new technologies.
 
 ### 🌍 Open Source Contributions
 
-- **Litestar** — Fixed query param serialization and tests ([PR #4192](https://github.com/litestar-org/litestar/pull/4192))  
+- **Litestar** — Added support for custom JWT headers in `Token.encode()` ([PR #4192](https://github.com/litestar-org/litestar/pull/4192))  
 - **logic_processes_layer** — Added support for nested paths in `ProcessAttr` ([PR #25](https://github.com/GefMar/logic_processes_layer/pull/25))  
 - **logic_processes_layer** — Added tests and updated documentation ([PR #27](https://github.com/GefMar/logic_processes_layer/pull/27))  
 - **gefest_simple_rest_client** — API client improvements ([PR #10](https://github.com/GefMar/gefest_simple_rest_client/pull/10))  
